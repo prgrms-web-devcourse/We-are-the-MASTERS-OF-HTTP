@@ -6,7 +6,13 @@
 > - 인원 : [AllGold](https://github.com/dar-jeeling), [Sonny](https://github.com/sa02045), [Hyevvy](https://github.com/Hyevvy), [Green](https://github.com/yunjjeongjo)
 
 # 스터디 진행 현황
+## Quiz
+| Week | Topic | Quiz Link |
+|------|-------|-----------|
+|  1  |(1장) HTTP 개관 <br> (2장) URL과 리소스      |     [allgold](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/1%EC%A3%BC%EC%B0%A8/allgold.md) [sonny](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/1%EC%A3%BC%EC%B0%A8/sonny.md) [hyevvy](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/1%EC%A3%BC%EC%B0%A8/hyevvy.md) [green](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/1%EC%A3%BC%EC%B0%A8/green.md)      |
+
+## Interview Question
 
 
 # 스터디 진행 규칙
-- Wiki 참고 
+- [상세 내용은 Wiki에 기술](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/wiki)
