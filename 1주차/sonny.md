@@ -58,19 +58,21 @@ O
 `#` : 프래그먼트를 지정할 때
 `?` : 쿼리를 지정할 때
 등등
-
 </div>
+</details>
 
 
 
 #### 5. 다음 URL과 동일한 Origin을 찾아주세요.
+
+```
 http://www.text.com/other.html
 
   1. https://www.text.com/other.html
   2. http://www.text.com:81/other.html
   3. http://www.something.com:80/other.html
   4. http://www.text.com/another.html
-
+```
 
 <details>
 <summary>답안</summary>
@@ -84,3 +86,5 @@ http://www.text.com/other.html
 4번은 스킴, 호스트, 포트번호가 같다.
 
 </div>
+</details>
+
