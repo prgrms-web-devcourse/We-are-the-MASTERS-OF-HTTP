@@ -60,3 +60,27 @@ O
 등등
 
 </div>
+
+
+
+#### 5. 다음 URL과 동일한 Origin을 찾아주세요.
+http://www.text.com/other.html
+
+  1. https://www.text.com/other.html
+  2. http://www.text.com:81/other.html
+  3. http://www.something.com:80/other.html
+  4. http://www.text.com/another.html
+
+
+<details>
+<summary>답안</summary>
+<div markdown="1">
+
+4번
+
+1번은 스킴(프로토콜)이 다르다.
+2번은 포트번호가 다르다
+3번은 호스트가 다르다.
+4번은 스킴, 호스트, 포트번호가 같다.
+
+</div>
