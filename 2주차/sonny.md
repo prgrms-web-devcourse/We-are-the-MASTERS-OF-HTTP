@@ -31,16 +31,12 @@ GET /_search
 <br>
 
 
-### 2. CORS(Cross Origin Resource Policy)를 위해 설정되는 요청 헤더와 응답 헤더에는 어떤 것이 있나요?
+### 2. CORS(Cross Origin Resource Policy)를 해결하기 위해 설정되는 응답 헤더에는 어떤 것이 있나요?
 
 <details>
 <summary>답안</summary>
 <div markdown="1">
 
-요청 헤더 - `Origin`
-Origin : 요청 서버(클라이언트) URI
-
----
 
 응답 헤더 - `Access-Control-Allow-Origin`
 - 브라우저에게 리소스에 접근할 수 있는 출처를 알려줌
