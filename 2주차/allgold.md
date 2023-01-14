@@ -47,3 +47,29 @@
 
 </div>
 </details>
+
+## 4장 : 커넥션 관리
+
+### 1. HTTP 성능에 영향을 미치는 요소들 간단하게 설명해주세요.
+
+<details>
+<summary>퀴즈 답안</summary>
+<div markdown="1">
+
+TCP (TCP Slow Start), HTTP 커넥션의 성능 (커넥션이 순차적으로 처리될 경우, 물리적인 지연과 UX 적인 지연이 생길 수 있음)
+
+</div>
+</details>
+
+---
+
+### 2. 브라우저의 레이아웃 지연을 없애기 위해서 HTML 에서 제공하는 방법은?
+
+<details>
+<summary>퀴즈 답안</summary>
+<div markdown="1">
+
+특정 브라우저의 경우, 객체를 화면에 그릴 때 객체의 크기를 알아야 한다. 따라서 이러한 객체를 내려받기 전에 레이아웃을 그리기 위해 HTML에서 폭과 높이를 기술하여 레이아웃 지연을 없앨 수 있다.
+
+</div>
+</details>
