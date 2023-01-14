@@ -78,7 +78,7 @@ X
 </details>
 
 
-#### 5. 프락시는 Connection 헤더와 Connection 헤더에 명시된 헤더들을 절대 전달하면 안 되기 때문에, Proxy-Connection 이라는 헤더가 사용되기 시작했다. 이 Proxy-Connection 헤더는 한 개의 프락시가 있는 경우에만 동작한다. 
+#### 6. 프락시는 Connection 헤더와 Connection 헤더에 명시된 헤더들을 절대 전달하면 안 되기 때문에, Proxy-Connection 이라는 헤더가 사용되기 시작했다. 이 Proxy-Connection 헤더는 한 개의 프락시가 있는 경우에만 동작한다. 
 
 <details>
 <summary>답안</summary>
