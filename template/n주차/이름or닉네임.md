@@ -5,7 +5,7 @@
 ### 1. 퀴즈 문제 예시 1
 
 <details>
-<summary>퀴즈 답안 예시</summary>
+<summary>퀴즈 답안</summary>
 <div markdown="1">
 
 답안
@@ -18,7 +18,7 @@
 ### 2. 퀴즈 문제 예시 2
 
 <details>
-<summary>퀴즈 답안 예시</summary>
+<summary>퀴즈 답안</summary>
 <div markdown="1">
 
 답안
@@ -33,7 +33,7 @@
 ### 3. 퀴즈 문제 예시 3
 
 <details>
-<summary>퀴즈 답안 예시</summary>
+<summary>퀴즈 답안</summary>
 <div markdown="1">
 
 답안
