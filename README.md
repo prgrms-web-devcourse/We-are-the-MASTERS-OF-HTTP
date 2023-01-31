@@ -13,6 +13,7 @@
 |  2  |(3장) HTTP 메시지 <br> (4장) 커넥션 관리      |     [allgold](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/2EC%A3%BC%EC%B0%A8/allgold.md) [sonny](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/2EC%A3%BC%EC%B0%A8/sonny.md) [hyevvy](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/2EC%A3%BC%EC%B0%A8/hyevvy.md) [green](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/2EC%A3%BC%EC%B0%A8/green.md)      |
 |  3  |(5장) 웹 서버   |     [allgold](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/3%EC%A3%BC%EC%B0%A8/allgold.md) [sonny](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/3%EC%A3%BC%EC%B0%A8/sonny.md) [hyevvy](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/3%EC%A3%BC%EC%B0%A8/hyevvy.md)      |
 |  4  |(6장) 프락시 <br> (7장) 캐시    |     [allgold](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/4%EC%A3%BC%EC%B0%A8/allgold.md) [sonny](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/4%EC%A3%BC%EC%B0%A8/sonny.md) [hyevvy](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/4%EC%A3%BC%EC%B0%A8/hyevvy.md) [green](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/4%EC%A3%BC%EC%B0%A8/green.md)      |
+|  5  |(9장) 웹 로봇 <br> (10장) HTTP/2.0    |     [allgold](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/5%EC%A3%BC%EC%B0%A8/allgold.md) [sonny](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/5%EC%A3%BC%EC%B0%A8/sonny.md) [hyevvy](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/blob/main/5%EC%A3%BC%EC%B0%A8/hyevvy.md)      |
 
 
 ## Interview Question
@@ -23,6 +24,7 @@
 - [HTTP 메소드의 멱등성, 그리고 안전한 메서드](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/discussions/32)
 - [PUT과 PATCH의 차이점](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/discussions/33)
 - [요청 메시지를 파싱할 때, 웹 서버는 어떤 일을 하나요?](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/discussions/36)
+- [Next.js에서 클라이언트 단에서 CORS를 회피하는 방법은?](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/discussions/44)
 
 # 스터디 진행 규칙
 - [상세 내용은 Wiki에 기술](https://github.com/prgrms-web-devcourse/We-are-the-MASTERS-OF-HTTP/wiki)
