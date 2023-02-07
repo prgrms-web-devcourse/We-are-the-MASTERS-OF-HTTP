@@ -4,12 +4,13 @@
 
 ###
 - 브라우저는 브라우저에 저장된 모든 쿠키를 모든 사이트에 전송한다 (O/X)
-- Set-Cookie 응답 헤더의 Domain 속성은 어떤 사이트가 그 쿠키를 읽을 수 있는지 브라우저에게 알려준다
+- Set-Cookie 응답 헤더의 Domain 속성은 어떤 사이트가 그 쿠키를 읽을 수 있는지 브라우저에게 알려준다 (O/X)
 <details>
 <summary>답안</summary>
 <div markdown="1">
 
-전부 O
+1. (X)
+1. (O)
 
 </div>
 </details>
@@ -36,6 +37,7 @@
 
 3. 사용자 로그인 (사용자의 토큰을 Authorization 헤더에 담아 전송)
 4. URL에 식별자를 포함하는 기술 Fat URL
+   - https://www.airbnb.co.kr/book/stays/43629767?numberOfAdults=2&checkin=2023-04-20&checkout=2023-04-25&numberOfGuests=2&guestCurrency=KRW&productId=43629767&isWorkTrip=false&numberOfChildren=0&numberOfInfants=0&numberOfPets=0
 5. 쿠키
 
 </div>
