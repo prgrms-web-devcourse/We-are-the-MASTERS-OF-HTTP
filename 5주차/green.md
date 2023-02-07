@@ -48,3 +48,33 @@ X
 </details>
 
  <br>
+
+## 10장 : HTTP/2.0
+
+### 10.2 개요
+
+#### 3. HTTP/2.0에서 모든 메시지는 `_______`에 담겨 전송된다.
+
+<details>
+<summary>답안</summary>
+<div markdown="1">
+
+프레임
+
+</div>
+</details>
+
+ <br>
+
+#### 4. HTTP/2에서는 `_______` 압축 형식을 사용하여 요청 및 응답 헤더 메타 데이터를 압축합니다.
+
+ <details>
+<summary>답안</summary>
+<div markdown="1">
+
+HPACK
+
+</div>
+</details>
+
+ <br>
