@@ -66,3 +66,26 @@ http://abcdefg.com/test/에 접근하면 쿠키를 받게 된다.
 
 <br>
 
+
+### HTTP Cookie는 자바스크립트로 접근이 가능합니다. 이로인해 보안문제도 벌어지는데요, 쿠키 헤더를 설정하면 이를 방지할 수 있습니다. 어떤 보안문제이고 이를 해결하는 헤더는 무엇인가요?
+
+
+<details>
+<summary>답안</summary>
+<div markdown="1">
+CSS(Cross Site Scripting) 공격
+
+document.cookie으로 쿠키에 접근가능
+
+쿠키의 httpOnly
+- 자바스크립트의 쿠키 접근을 막는다.
+
+```
+Set-Cookie: 쿠키명=쿠키값; path=/; HttpOnly
+```
+
+</div>
+</details>
+<br>
+
+
