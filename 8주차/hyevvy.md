@@ -23,13 +23,15 @@
 2. Content-Length는 지속 커넥션을 위해 필수인데, 청크 인코딩을 사용할 때는 Content-Length 헤더 없이 사용할 수 있다. (O / X)
 
 3. 본문의 콘텐츠가 인코딩되어 있다면, Content-Length헤더는 인코딩되지 않은 원본의 길이가 아닌 인코딩된 본문의 길이를 바이트 단위로 정의한다. (O / X)
-4. <details>
+
+   <details>
    <summary>답안</summary>
    <div markdown="1">
    (p.398)
-5. X
+
+4. X
+5. O
 6. O
-7. O
 
 </div>
 </details>
