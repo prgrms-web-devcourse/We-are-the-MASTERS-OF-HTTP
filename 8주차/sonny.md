@@ -64,18 +64,16 @@ A) O
 <br>
 
 
-### Q) 전송 인코딩을 제어하고 서술하기 위해 정의되는 헤더 필드는 Transfer-Encoding, TE이다. (O/X)
+### Q) 메시지 잘림은 캐싱 프록시 서버에 특히 취약하다. 이를 방지하기 위해 캐싱 프록시 서버는 Content-Length 헤더를 지니지 않은 HTTP 본문은 보통 캐싱하지 않는다. (O/X)
 
 <details>
 <summary>답안</summary>
 <div markdown="1">
 A) O
 
-Transfer-Encoding: 어떤 인코딩이 메시지에 적용되었는지 수신자에게 알려준다.
-
-TE: 어떤 전송 인코딩을 사용할 수 있는지 서버에게 알려주기 위해 요청 헤더에 사용한다.
 
 </div>
 </details>
 <br>
+
 
