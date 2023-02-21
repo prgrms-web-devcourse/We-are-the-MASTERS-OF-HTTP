@@ -33,14 +33,3 @@
 
 </div>
 </details>
-
-#### 3. HTTP와 HTTPS의 계층적인 측면에 대해 가장 큰 차이점을 설명해주세요.
-
-<details>
-<summary>답안</summary>
-<div markdown="1">
-- (p.357) HTTPS는 HTTP 하부에 전송 레벨 암호 보안 계층을 제공한다.
-이 보안 계층은 안전 소켓 계층 혹은 그를 계승한 전송 계층 보안을 이용하며 구현되는데, 이 둘을 표현하는 용어로 SSL을 사용한다.
-
-</div>
-</details>
