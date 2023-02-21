@@ -24,14 +24,13 @@
 
 3. 본문의 콘텐츠가 인코딩되어 있다면, Content-Length헤더는 인코딩되지 않은 원본의 길이가 아닌 인코딩된 본문의 길이를 바이트 단위로 정의한다. (O / X)
 
-   <details>
-   <summary>답안</summary>
-   <div markdown="1">
+<details>
+<summary>답안</summary>
+<div markdown="1">
    (p.398)
-
-4. X
-5. O
-6. O
+   1. X
+   2. O
+   3. O
 
 </div>
 </details>
